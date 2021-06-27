@@ -1,0 +1,9 @@
+degree - 도 (각도 단위), CSS에서의 단위 [deg]
+
+미디어 쿼리(화면 사이즈를 감지하여 변환)
+@media screen and (min-width: npx) and (max-width:npx) and (orientation : landscape혹은portrait)
+	=> 스크린 사이즈에 따라서 property 조정 가능함. [orientation으로 가로 세로 감지 가능]
+							(orientation : portrait) - 세로모드
+									ㄴlandscape - 가로모드
+
+border-radius - 보더 모서리 둥글게 만드는 코드

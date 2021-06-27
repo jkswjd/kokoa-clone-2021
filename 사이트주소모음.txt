@@ -1,0 +1,5 @@
+- CSS Transitions ease 그래프 사이트 (속도그래프 사이트)
+https://matthewlein.com/tools/ceaser
+
+- mdn 사이트 [mdn web docs - 사이트 이름]
+	ex)html mdn 등 원하는 엘리먼트 이름뒤에 mdn을 붙여서 검색을 해보자!
